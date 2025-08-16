@@ -22,4 +22,5 @@ A simple and addictive number guessing game built with JavaScript!
 ---
 
 ## Try it Live
-Play the game here: [Guess My Number] (https://guess-my-number-topaz.vercel.app/)
+Play the game here: [Guess My Number](https://guess-my-number-topaz.vercel.app/) 🌟
+
